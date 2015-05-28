@@ -1,0 +1,31 @@
+{
+  "name": "express-nunjucks-boilerplate",
+  "version": "0.0.1",
+  "description": "Express and Nunjucks. Pow!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamstuartwilson/express-nunjucks-boilerplate.git"
+  },
+  "keywords": [
+    "express",
+    "nunjucks",
+    "boilerplate"
+  ],
+  "author": "@iamstuartwilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamstuartwilson/express-nunjucks-boilerplate/issues"
+  },
+  "homepage": "https://github.com/iamstuartwilson/express-nunjucks-boilerplate",
+  "dependencies": {
+    "express": "^4.12.4",
+    "nunjucks": "^1.3.4"
+  },
+  "devDependencies": {
+    "express-generator": "^4.12.4"
+  }
+}
